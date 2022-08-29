@@ -35,6 +35,7 @@ GIF created with [Recordit](https://recordit.co/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 Some challenges that I had building this app was becoming familiar with the xcode environment as I have never programmed with xcode before.
 
 ## License
