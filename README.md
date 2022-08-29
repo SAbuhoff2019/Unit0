@@ -26,15 +26,16 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the implemented Tip Calculator:
 
 <img src='http://g.recordit.co/iykLQWOFgq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+Some challenges that I had building this app was becoming familiar with the xcode environment as I have never programmed with xcode before.
 
 ## License
 
